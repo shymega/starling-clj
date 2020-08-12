@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/shymega/starling-clj/branch/master/graph/badge.svg)](https://codecov.io/gh/shymega/starling-clj)
 [![Clojars Project](https://img.shields.io/clojars/v/com.github.shymega/starling-clj.svg)](https://clojars.org/com.github.shymega/starling-clj)
 
-A Clojure SDK for Starling Bank's API.
+A Clojure library for Starling Bank's API.
 
 ```clj
 [com.github.shymega/starling-clj "0.1.0"]

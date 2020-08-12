@@ -1,5 +1,5 @@
 (defproject com.github.shymega/starling-clj "0.0.0"
-  :description "Clojure SDK for Starling's API"
+  :description "Clojure library for Starling's API"
   :url "https://github.com/shymega/starling-clj"
   :license {:name "Apache License 2.0"
             :url  "https://www.apache.org/licenses/LICENSE-2.0"}
