@@ -1,5 +1,2 @@
-(ns starling-clj.core)
-
-(defn foo "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+(ns starling-clj.core
+  (:gen-class))
