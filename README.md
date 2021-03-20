@@ -15,7 +15,7 @@ A Clojure library for Starling Bank's API.
 
 Copyright © 2020 Dom Rodriguez
 
-Distributed under the Apache License 2.0.
+Distributed under the MIT license and the Apache License 2.0.
 
 ## Disclaimer
 
