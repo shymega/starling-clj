@@ -5,6 +5,10 @@
   [minorUnits
    currency])
 
+(defrecord SignedCurrencyAndAmount
+  [minorUnits
+   currency])
+
 (defrecord Transaction
   [feedItemUid
    categoryUid
