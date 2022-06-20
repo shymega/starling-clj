@@ -5,5 +5,6 @@
               :url "https://opensource.org/licenses/MIT"}]
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [timbre "0.5.1-SNAPSHOT"]
+                 [org.clojure/data.json "2.4.0"]
                  [clj-http "3.10.2"]]
   :plugins [])
